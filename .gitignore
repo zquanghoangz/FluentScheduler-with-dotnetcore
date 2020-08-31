@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Schedulers/.vs/Schedulers
+/Schedulers/Schedulers/bin/Debug/netcoreapp3.1
+/Schedulers/Schedulers/obj
+/Schedulers/Schedulers/Logs
